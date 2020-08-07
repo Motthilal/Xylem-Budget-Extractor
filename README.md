@@ -8,10 +8,10 @@ The Jupyter notebook contains all instructions to run the code and is self expla
 ### Prerequisites
 
 ```
-* Pandas
-* PyPDF2
-* Tabula
-* googlesearch
+ Pandas
+ PyPDF2
+ Tabula
+ googlesearch
 ```
 
 
@@ -21,7 +21,7 @@ The Jupyter notebook contains all instructions to run the code and is self expla
 
 * **Motthilal Baskaran** - [Profile](https://github.com/Motthilal)
 
-* **Moahnraam Sethuraman** - [Profile](https://github.com/gengenpress)
+* **Moahnraam Sethuraman** - [Profile](https://github.com/gegenpress)
 
 ## Acknowledgments
 
