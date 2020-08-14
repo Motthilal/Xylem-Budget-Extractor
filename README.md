@@ -25,5 +25,5 @@ The Jupyter notebook contains all instructions to run the code and is self expla
 
 ## Acknowledgments
 
-* Our sincere gratitude to the Xylem team
+* Our sincere thanks to Zachary Barkjohn [Profile](https://github.com/ZacharyBarker) and the Xylem team
 
